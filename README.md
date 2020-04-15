@@ -9,7 +9,7 @@
 - The Admin has the ability to send Email's to different users and the users can contact developer directly by send Email through the application.
 
 # How it works
-- The user is required to Signup and must select the designation(Developer/Tester) to access their sepcific dashboard.
+- The user is required to Signup and must select the designation(Developer/Tester) to access their specific dashboard.
 - After login, the user is presented with a dashboard with all the required information.
 - If the user is a Tester, before reporting a bug , the user can search for duplicates in the database by performing a search and if not found the bug can be reported.
 - The admin assigns the valid bug to a developer who is available to fix it.
