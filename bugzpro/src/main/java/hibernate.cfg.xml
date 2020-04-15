@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.google.cloud.spanner.jdbc.JdbcDriver</property>
+        <property name="hibernate.connection.url">jdbc:cloudspanner:/projects/bugzpro-273210/instances/bugzpro/databases/bugzprodb</property>
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.id.new_generator_mappings">false</property>
+        <property name="hibernate.dialect">com.google.cloud.spanner.hibernate.SpannerDialect</property>
+		<property name="hibernate.hbm2ddl.auto">update</property>
+		<mapping class="com.FinalBugProject.models.Signup"/>
+		<mapping class="com.FinalBugProject.models.Login"/>
+		<mapping class="com.FinalBugProject.models.EditProfile"/>
+	 <mapping class="com.FinalBugProject.models.BugReport"/>
+	  <mapping class="com.FinalBugProject.models.Feedback"/>	
+    </session-factory>
+</hibernate-configuration>
