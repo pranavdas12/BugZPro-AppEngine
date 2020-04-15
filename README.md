@@ -1,6 +1,6 @@
 # BugZPro-AppEngine
 <h3>Introduction</h3>
-BugZPro is a state of the art bug reporting software developed using Java/J2EE with hibernate for SQL queries and for uninteruptable Database switch.The application is deployed in Google Cloud Platform AppEngine.
+- BugZPro is a state of the art bug reporting software developed using Java/J2EE with hibernate for SQL queries and for uninteruptable Database switch.<br></br>- The application is deployed in Google Cloud Platform AppEngine.<br></br>- The project uses Maven appengine-skeleton archetype structure.<br></br>- The Hibernate dialect used is com.google.cloud.spanner.hibernate.SpannerDialect(GCloud Spanner SQL)
 
 # Features
 - Has three different modules(Admin/Developer/Tester).
