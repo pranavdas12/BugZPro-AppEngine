@@ -17,7 +17,7 @@ BugZPro is a state of the art bug reporting software developed using Java/J2EE w
 
 # Try the application
 
-<a href="www.bugzpro.xyz">Click Here</a>
+<a href="https://www.bugzpro.xyz">Click Here</a>
  
 
 # Contact :
