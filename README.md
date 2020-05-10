@@ -22,7 +22,7 @@
 
 # Contact :
 
- <p>mailto:atom.workforce@gmail.com</p>
+ <p>mailto:workforceatom@gmail.com</p>
 
 # MIT License
 <pre>Copyright (c) 2020 Pranav N Das
